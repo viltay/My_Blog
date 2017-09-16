@@ -1,0 +1,14 @@
+beautifulsoup4==4.6.0
+Django==1.11
+django-blog-zinnia==0.18.1
+django-contrib-comments==1.8.0
+django-mptt==0.8.7
+django-tagging==0.4.5
+-e git://github.com/Fantomas42/django-xmlrpc.git@f89c2d0aa27ba93762c7554b52c827906c497b94#egg=django_xmlrpc
+mots-vides==2015.5.11
+olefile==0.44
+Pillow==4.2.1
+pkg-resources==0.0.0
+pyparsing==2.2.0
+pytz==2017.2
+regex==2017.7.28
