@@ -36,7 +36,7 @@ sitemaps = {
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^weblog/', include('zinnia.urls')),
+    url(r'^', include('zinnia.urls')),
     url(r'^comments/', include('django_comments.urls')),
 
     url(r'^sitemap.xml$',
