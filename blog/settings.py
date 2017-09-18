@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'mptt',
     'tagging',
     'zinnia',
+    'zinnia_ckeditor',
+    'ckeditor',
 ]
 
 MIDDLEWARE = [
